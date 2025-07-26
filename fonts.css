@@ -1,0 +1,24 @@
+@font-face {
+   font-family: "Rockwell";
+   src: url("fonts/Rockwell.woff") format("woff"), url("fonts/Rockwell.eot") format("embedded-opentype"), url("fonts/Rockwell.TTF") format("truetype"), url("fonts/Rockwell.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Rockwell";
+   src: url("fonts/Rockwell Bold.woff") format("woff"), url("fonts/Rockwell Bold.eot") format("embedded-opentype"), url("fonts/Rockwell Bold.TTF") format("truetype"), url("fonts/Rockwell Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Rockwell";
+   src: url("fonts/Rockwell Bold Italic.woff") format("woff"), url("fonts/Rockwell Bold Italic.eot") format("embedded-opentype"), url("fonts/Rockwell Bold Italic.TTF") format("truetype"), url("fonts/Rockwell Bold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Rockwell";
+   src: url("fonts/Rockwell Italic.woff") format("woff"), url("fonts/Rockwell Italic.eot") format("embedded-opentype"), url("fonts/Rockwell Italic.TTF") format("truetype"), url("fonts/Rockwell Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
