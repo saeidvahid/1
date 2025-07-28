@@ -54,9 +54,9 @@ audiores_4A1B1532_454F_77E8_41C6_706C229E32D2.mp3Url = media/audio_54773519_4546
 imlevel_5BF431BF_4FC5_5CC3_41CF_82E506A464C3.url = media/popup_5BEE06F3_4FDB_A443_41B9_A763273D217A_en_0_0.jpg
 imlevel_5BF221C0_4FC5_5CBD_418B_A9AE95DF77F8.url = media/popup_5BEE06F3_4FDB_A443_41B9_A763273D217A_en_0_1.jpg
 imlevel_5BF231C0_4FC5_5CBD_41D3_BE79D37600E3.url = media/popup_5BEE06F3_4FDB_A443_41B9_A763273D217A_en_0_2.jpg
-imlevel_703C9E80_50DB_A4BD_41B0_1AB7AAC372AE.url = media/zoomImage_5E80A6A9_4FC6_A4CE_417D_0FE84F5C4A32_en_0_0.jpg
-imlevel_703C6E80_50DB_A4BD_41CA_E73FBC7F0E35.url = media/zoomImage_5E80A6A9_4FC6_A4CE_417D_0FE84F5C4A32_en_0_1.jpg
-imlevel_703C4E81_50DB_A4BF_41BE_CBA5F7671CF0.url = media/zoomImage_5E80A6A9_4FC6_A4CE_417D_0FE84F5C4A32_en_0_2.jpg
+imlevel_4F3B3026_50DD_5BC5_41BF_420B5DE72628.url = media/zoomImage_5E80A6A9_4FC6_A4CE_417D_0FE84F5C4A32_en_0_0.jpg
+imlevel_4F3D3026_50DD_5BC5_41C2_E9FC14972DCC.url = media/zoomImage_5E80A6A9_4FC6_A4CE_417D_0FE84F5C4A32_en_0_1.jpg
+imlevel_4F3D5027_50DD_5BC3_41D2_04D1F8105E6E.url = media/zoomImage_5E80A6A9_4FC6_A4CE_417D_0FE84F5C4A32_en_0_2.jpg
 
 ### Popup Image
 
@@ -89,15 +89,15 @@ panorama_32C47AA4_3E35_71AA_41CC_C02A64AD8696.label = چای خانه 2
 panorama_32C5AF97_3E0B_4F96_41C9_2B4BF432A922.label = گل های شب بو
 
 ### Video
-videolevel_70120975_50DB_AC47_41B9_81C93A8801FD.url = media/video_5B1830E6_4FC5_5C42_41C7_1591B2A38D69_en.mp4
-videolevel_70120975_50DB_AC47_41B9_81C93A8801FD.posterURL = media/video_5B1830E6_4FC5_5C42_41C7_1591B2A38D69_poster_en.jpg
+videolevel_4F558B06_50DE_ADC5_4194_A0E3DEF89829.url = media/video_5B1830E6_4FC5_5C42_41C7_1591B2A38D69_en.mp4
+videolevel_4F558B06_50DE_ADC5_4194_A0E3DEF89829.posterURL = media/video_5B1830E6_4FC5_5C42_41C7_1591B2A38D69_poster_en.jpg
 
 ### Video Subtitles
 
 ## Popup
 
 ### Body
-htmlText_5734623E_4186_3C73_41BC_B05276AECFF2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:1.09375vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.09vw;word-break:break-word;font-family:'Rockwell';"><B>باغ گردشگری و سفره خانه سنتی استاد ایاز</B></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_5734623E_4186_3C73_41BC_B05276AECFF2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;word-break:break-word;font-family:'Rockwell';"><B>باغ گردشگری و سفره خانه سنتی استاد ایاز</B></SPAN></SPAN></DIV></BODY></HTML></div>
 
 ## Skin
 
